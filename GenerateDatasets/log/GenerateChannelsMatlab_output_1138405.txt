@@ -1,0 +1,258 @@
+2024-02-09 17:21:06.683983: I tensorflow/core/util/util.cc:169] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-02-09 17:21:10.356302: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F AVX512_VNNI FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-09 17:21:10.875504: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1532] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 9610 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:1e:00.0, compute capability: 7.5
+INFO: Generating batch 0 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 3 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 4 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 5 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 6 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 7 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 8 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 9 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 10 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 11 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 12 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 13 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 14 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 15 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 16 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 17 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 18 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 19 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 20 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 21 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 22 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 23 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 24 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 25 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 26 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 27 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 28 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 29 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 30 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 31 of size 64
+Samling frequency: 1600.0
+(32, 64, 30, 2, 64)
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+                  R2023b (23.2.0.2365128) 64-bit (glnxa64)
+                              August 23, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+batch =
+
+     1
+
+
+batch =
+
+     2
+
+
+batch =
+
+     3
+
+
+batch =
+
+     4
+
+
+batch =
+
+     5
+
+
+batch =
+
+     6
+
+
+batch =
+
+     7
+
+
+batch =
+
+     8
+
+
+batch =
+
+     9
+
+
+batch =
+
+    10
+
+
+batch =
+
+    11
+
+
+batch =
+
+    12
+
+
+batch =
+
+    13
+
+
+batch =
+
+    14
+
+
+batch =
+
+    15
+
+
+batch =
+
+    16
+
+
+batch =
+
+    17
+
+
+batch =
+
+    18
+
+
+batch =
+
+    19
+
+
+batch =
+
+    20
+
+
+batch =
+
+    21
+
+
+batch =
+
+    22
+
+
+batch =
+
+    23
+
+
+batch =
+
+    24
+
+
+batch =
+
+    25
+
+
+batch =
+
+    26
+
+
+batch =
+
+    27
+
+
+batch =
+
+    28
+
+
+batch =
+
+    29
+
+
+batch =
+
+    30
+
+
+batch =
+
+    31
+
+
+batch =
+
+    32
+
+Traceback (most recent call last):
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'Temp/RF_Channel.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tue/20162638/ChannelEstimationTransformer/GenerateDatasets/GenerateChannelsFreqPostMatlab.py", line 7, in <module>
+    dict = scio.loadmat("Temp/RF_Channel.mat")
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 225, in loadmat
+    with _open_file_context(file_name, appendmat) as f:
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/contextlib.py", line 119, in __enter__
+    return next(self.gen)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 17, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'Temp/RF_Channel.mat'

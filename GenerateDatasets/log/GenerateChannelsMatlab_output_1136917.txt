@@ -1,0 +1,9165 @@
+2024-02-09 14:51:21.757287: I tensorflow/core/util/util.cc:169] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-02-09 14:51:25.080290: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F AVX512_VNNI FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-02-09 14:51:25.583801: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1532] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 9610 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 Ti, pci bus id: 0000:1a:00.0, compute capability: 7.5
+INFO: Generating batch 0 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 3 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 4 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 5 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 6 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 7 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 8 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 9 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 10 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 11 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 12 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 13 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 14 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 15 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 16 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 17 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 18 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 19 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 20 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 21 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 22 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 23 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 24 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 25 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 26 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 27 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 28 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 29 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 30 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 31 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 32 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 33 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 34 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 35 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 36 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 37 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 38 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 39 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 40 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 41 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 42 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 43 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 44 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 45 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 46 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 47 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 48 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 49 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 50 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 51 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 52 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 53 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 54 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 55 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 56 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 57 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 58 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 59 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 60 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 61 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 62 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 63 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 64 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 65 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 66 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 67 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 68 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 69 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 70 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 71 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 72 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 73 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 74 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 75 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 76 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 77 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 78 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 79 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 80 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 81 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 82 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 83 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 84 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 85 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 86 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 87 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 88 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 89 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 90 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 91 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 92 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 93 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 94 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 95 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 96 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 97 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 98 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 99 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 100 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 101 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 102 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 103 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 104 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 105 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 106 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 107 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 108 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 109 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 110 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 111 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 112 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 113 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 114 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 115 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 116 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 117 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 118 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 119 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 120 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 121 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 122 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 123 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 124 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 125 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 126 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 127 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 128 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 129 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 130 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 131 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 132 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 133 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 134 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 135 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 136 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 137 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 138 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 139 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 140 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 141 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 142 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 143 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 144 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 145 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 146 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 147 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 148 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 149 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 150 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 151 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 152 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 153 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 154 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 155 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 156 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 157 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 158 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 159 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 160 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 161 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 162 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 163 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 164 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 165 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 166 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 167 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 168 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 169 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 170 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 171 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 172 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 173 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 174 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 175 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 176 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 177 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 178 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 179 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 180 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 181 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 182 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 183 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 184 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 185 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 186 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 187 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 188 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 189 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 190 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 191 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 192 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 193 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 194 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 195 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 196 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 197 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 198 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 199 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 200 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 201 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 202 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 203 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 204 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 205 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 206 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 207 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 208 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 209 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 210 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 211 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 212 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 213 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 214 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 215 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 216 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 217 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 218 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 219 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 220 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 221 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 222 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 223 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 224 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 225 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 226 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 227 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 228 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 229 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 230 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 231 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 232 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 233 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 234 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 235 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 236 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 237 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 238 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 239 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 240 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 241 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 242 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 243 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 244 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 245 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 246 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 247 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 248 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 249 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 250 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 251 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 252 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 253 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 254 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 255 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 256 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 257 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 258 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 259 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 260 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 261 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 262 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 263 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 264 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 265 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 266 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 267 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 268 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 269 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 270 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 271 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 272 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 273 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 274 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 275 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 276 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 277 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 278 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 279 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 280 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 281 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 282 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 283 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 284 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 285 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 286 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 287 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 288 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 289 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 290 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 291 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 292 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 293 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 294 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 295 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 296 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 297 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 298 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 299 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 300 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 301 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 302 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 303 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 304 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 305 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 306 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 307 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 308 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 309 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 310 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 311 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 312 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 313 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 314 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 315 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 316 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 317 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 318 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 319 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 320 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 321 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 322 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 323 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 324 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 325 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 326 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 327 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 328 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 329 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 330 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 331 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 332 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 333 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 334 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 335 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 336 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 337 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 338 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 339 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 340 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 341 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 342 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 343 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 344 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 345 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 346 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 347 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 348 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 349 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 350 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 351 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 352 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 353 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 354 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 355 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 356 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 357 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 358 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 359 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 360 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 361 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 362 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 363 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 364 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 365 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 366 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 367 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 368 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 369 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 370 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 371 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 372 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 373 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 374 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 375 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 376 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 377 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 378 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 379 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 380 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 381 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 382 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 383 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 384 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 385 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 386 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 387 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 388 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 389 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 390 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 391 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 392 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 393 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 394 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 395 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 396 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 397 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 398 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 399 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 400 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 401 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 402 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 403 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 404 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 405 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 406 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 407 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 408 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 409 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 410 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 411 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 412 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 413 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 414 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 415 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 416 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 417 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 418 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 419 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 420 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 421 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 422 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 423 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 424 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 425 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 426 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 427 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 428 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 429 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 430 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 431 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 432 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 433 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 434 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 435 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 436 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 437 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 438 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 439 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 440 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 441 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 442 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 443 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 444 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 445 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 446 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 447 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 448 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 449 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 450 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 451 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 452 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 453 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 454 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 455 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 456 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 457 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 458 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 459 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 460 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 461 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 462 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 463 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 464 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 465 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 466 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 467 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 468 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 469 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 470 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 471 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 472 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 473 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 474 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 475 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 476 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 477 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 478 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 479 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 480 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 481 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 482 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 483 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 484 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 485 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 486 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 487 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 488 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 489 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 490 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 491 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 492 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 493 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 494 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 495 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 496 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 497 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 498 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 499 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 500 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 501 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 502 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 503 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 504 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 505 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 506 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 507 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 508 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 509 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 510 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 511 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 512 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 513 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 514 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 515 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 516 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 517 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 518 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 519 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 520 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 521 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 522 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 523 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 524 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 525 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 526 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 527 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 528 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 529 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 530 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 531 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 532 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 533 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 534 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 535 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 536 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 537 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 538 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 539 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 540 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 541 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 542 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 543 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 544 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 545 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 546 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 547 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 548 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 549 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 550 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 551 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 552 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 553 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 554 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 555 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 556 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 557 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 558 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 559 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 560 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 561 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 562 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 563 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 564 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 565 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 566 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 567 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 568 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 569 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 570 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 571 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 572 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 573 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 574 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 575 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 576 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 577 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 578 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 579 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 580 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 581 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 582 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 583 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 584 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 585 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 586 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 587 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 588 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 589 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 590 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 591 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 592 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 593 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 594 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 595 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 596 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 597 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 598 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 599 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 600 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 601 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 602 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 603 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 604 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 605 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 606 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 607 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 608 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 609 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 610 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 611 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 612 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 613 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 614 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 615 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 616 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 617 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 618 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 619 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 620 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 621 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 622 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 623 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 624 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 625 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 626 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 627 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 628 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 629 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 630 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 631 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 632 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 633 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 634 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 635 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 636 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 637 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 638 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 639 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 640 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 641 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 642 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 643 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 644 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 645 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 646 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 647 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 648 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 649 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 650 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 651 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 652 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 653 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 654 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 655 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 656 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 657 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 658 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 659 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 660 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 661 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 662 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 663 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 664 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 665 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 666 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 667 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 668 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 669 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 670 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 671 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 672 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 673 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 674 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 675 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 676 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 677 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 678 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 679 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 680 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 681 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 682 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 683 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 684 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 685 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 686 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 687 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 688 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 689 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 690 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 691 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 692 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 693 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 694 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 695 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 696 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 697 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 698 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 699 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 700 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 701 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 702 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 703 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 704 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 705 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 706 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 707 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 708 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 709 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 710 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 711 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 712 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 713 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 714 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 715 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 716 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 717 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 718 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 719 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 720 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 721 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 722 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 723 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 724 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 725 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 726 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 727 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 728 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 729 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 730 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 731 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 732 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 733 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 734 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 735 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 736 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 737 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 738 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 739 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 740 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 741 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 742 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 743 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 744 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 745 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 746 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 747 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 748 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 749 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 750 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 751 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 752 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 753 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 754 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 755 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 756 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 757 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 758 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 759 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 760 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 761 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 762 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 763 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 764 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 765 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 766 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 767 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 768 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 769 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 770 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 771 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 772 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 773 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 774 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 775 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 776 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 777 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 778 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 779 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 780 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 781 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 782 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 783 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 784 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 785 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 786 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 787 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 788 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 789 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 790 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 791 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 792 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 793 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 794 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 795 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 796 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 797 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 798 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 799 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 800 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 801 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 802 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 803 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 804 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 805 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 806 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 807 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 808 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 809 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 810 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 811 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 812 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 813 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 814 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 815 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 816 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 817 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 818 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 819 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 820 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 821 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 822 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 823 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 824 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 825 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 826 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 827 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 828 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 829 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 830 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 831 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 832 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 833 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 834 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 835 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 836 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 837 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 838 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 839 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 840 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 841 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 842 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 843 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 844 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 845 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 846 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 847 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 848 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 849 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 850 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 851 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 852 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 853 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 854 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 855 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 856 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 857 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 858 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 859 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 860 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 861 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 862 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 863 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 864 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 865 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 866 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 867 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 868 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 869 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 870 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 871 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 872 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 873 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 874 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 875 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 876 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 877 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 878 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 879 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 880 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 881 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 882 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 883 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 884 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 885 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 886 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 887 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 888 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 889 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 890 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 891 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 892 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 893 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 894 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 895 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 896 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 897 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 898 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 899 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 900 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 901 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 902 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 903 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 904 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 905 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 906 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 907 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 908 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 909 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 910 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 911 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 912 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 913 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 914 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 915 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 916 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 917 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 918 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 919 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 920 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 921 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 922 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 923 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 924 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 925 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 926 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 927 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 928 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 929 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 930 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 931 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 932 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 933 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 934 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 935 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 936 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 937 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 938 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 939 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 940 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 941 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 942 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 943 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 944 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 945 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 946 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 947 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 948 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 949 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 950 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 951 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 952 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 953 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 954 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 955 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 956 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 957 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 958 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 959 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 960 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 961 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 962 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 963 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 964 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 965 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 966 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 967 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 968 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 969 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 970 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 971 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 972 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 973 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 974 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 975 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 976 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 977 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 978 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 979 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 980 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 981 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 982 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 983 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 984 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 985 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 986 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 987 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 988 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 989 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 990 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 991 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 992 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 993 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 994 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 995 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 996 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 997 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 998 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 999 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1000 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1001 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1002 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1003 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1004 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1005 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1006 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1007 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1008 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1009 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1010 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1011 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1012 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1013 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1014 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1015 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1016 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1017 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1018 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1019 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1020 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1021 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1022 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1023 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1024 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1025 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1026 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1027 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1028 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1029 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1030 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1031 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1032 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1033 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1034 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1035 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1036 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1037 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1038 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1039 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1040 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1041 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1042 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1043 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1044 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1045 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1046 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1047 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1048 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1049 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1050 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1051 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1052 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1053 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1054 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1055 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1056 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1057 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1058 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1059 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1060 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1061 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1062 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1063 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1064 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1065 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1066 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1067 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1068 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1069 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1070 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1071 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1072 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1073 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1074 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1075 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1076 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1077 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1078 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1079 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1080 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1081 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1082 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1083 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1084 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1085 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1086 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1087 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1088 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1089 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1090 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1091 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1092 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1093 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1094 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1095 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1096 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1097 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1098 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1099 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1100 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1101 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1102 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1103 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1104 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1105 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1106 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1107 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1108 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1109 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1110 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1111 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1112 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1113 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1114 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1115 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1116 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1117 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1118 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1119 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1120 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1121 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1122 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1123 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1124 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1125 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1126 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1127 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1128 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1129 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1130 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1131 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1132 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1133 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1134 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1135 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1136 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1137 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1138 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1139 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1140 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1141 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1142 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1143 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1144 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1145 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1146 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1147 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1148 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1149 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1150 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1151 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1152 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1153 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1154 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1155 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1156 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1157 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1158 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1159 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1160 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1161 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1162 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1163 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1164 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1165 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1166 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1167 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1168 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1169 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1170 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1171 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1172 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1173 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1174 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1175 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1176 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1177 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1178 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1179 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1180 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1181 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1182 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1183 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1184 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1185 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1186 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1187 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1188 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1189 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1190 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1191 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1192 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1193 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1194 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1195 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1196 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1197 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1198 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1199 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1200 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1201 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1202 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1203 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1204 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1205 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1206 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1207 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1208 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1209 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1210 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1211 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1212 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1213 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1214 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1215 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1216 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1217 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1218 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1219 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1220 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1221 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1222 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1223 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1224 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1225 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1226 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1227 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1228 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1229 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1230 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1231 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1232 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1233 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1234 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1235 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1236 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1237 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1238 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1239 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1240 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1241 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1242 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1243 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1244 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1245 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1246 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1247 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1248 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1249 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1250 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1251 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1252 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1253 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1254 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1255 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1256 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1257 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1258 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1259 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1260 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1261 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1262 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1263 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1264 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1265 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1266 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1267 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1268 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1269 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1270 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1271 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1272 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1273 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1274 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1275 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1276 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1277 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1278 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1279 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1280 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1281 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1282 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1283 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1284 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1285 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1286 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1287 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1288 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1289 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1290 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1291 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1292 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1293 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1294 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1295 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1296 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1297 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1298 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1299 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1300 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1301 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1302 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1303 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1304 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1305 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1306 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1307 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1308 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1309 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1310 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1311 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1312 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1313 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1314 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1315 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1316 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1317 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1318 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1319 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1320 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1321 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1322 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1323 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1324 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1325 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1326 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1327 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1328 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1329 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1330 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1331 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1332 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1333 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1334 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1335 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1336 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1337 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1338 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1339 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1340 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1341 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1342 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1343 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1344 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1345 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1346 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1347 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1348 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1349 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1350 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1351 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1352 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1353 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1354 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1355 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1356 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1357 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1358 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1359 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1360 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1361 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1362 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1363 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1364 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1365 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1366 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1367 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1368 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1369 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1370 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1371 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1372 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1373 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1374 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1375 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1376 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1377 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1378 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1379 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1380 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1381 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1382 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1383 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1384 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1385 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1386 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1387 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1388 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1389 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1390 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1391 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1392 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1393 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1394 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1395 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1396 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1397 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1398 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1399 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1400 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1401 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1402 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1403 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1404 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1405 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1406 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1407 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1408 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1409 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1410 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1411 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1412 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1413 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1414 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1415 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1416 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1417 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1418 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1419 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1420 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1421 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1422 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1423 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1424 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1425 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1426 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1427 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1428 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1429 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1430 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1431 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1432 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1433 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1434 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1435 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1436 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1437 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1438 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1439 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1440 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1441 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1442 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1443 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1444 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1445 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1446 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1447 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1448 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1449 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1450 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1451 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1452 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1453 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1454 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1455 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1456 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1457 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1458 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1459 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1460 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1461 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1462 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1463 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1464 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1465 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1466 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1467 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1468 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1469 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1470 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1471 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1472 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1473 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1474 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1475 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1476 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1477 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1478 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1479 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1480 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1481 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1482 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1483 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1484 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1485 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1486 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1487 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1488 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1489 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1490 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1491 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1492 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1493 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1494 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1495 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1496 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1497 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1498 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1499 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1500 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1501 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1502 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1503 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1504 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1505 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1506 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1507 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1508 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1509 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1510 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1511 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1512 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1513 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1514 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1515 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1516 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1517 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1518 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1519 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1520 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1521 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1522 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1523 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1524 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1525 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1526 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1527 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1528 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1529 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1530 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1531 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1532 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1533 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1534 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1535 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1536 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1537 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1538 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1539 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1540 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1541 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1542 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1543 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1544 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1545 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1546 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1547 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1548 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1549 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1550 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1551 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1552 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1553 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1554 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1555 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1556 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1557 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1558 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1559 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1560 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1561 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1562 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1563 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1564 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1565 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1566 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1567 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1568 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1569 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1570 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1571 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1572 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1573 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1574 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1575 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1576 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1577 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1578 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1579 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1580 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1581 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1582 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1583 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1584 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1585 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1586 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1587 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1588 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1589 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1590 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1591 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1592 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1593 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1594 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1595 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1596 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1597 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1598 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1599 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1600 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1601 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1602 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1603 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1604 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1605 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1606 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1607 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1608 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1609 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1610 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1611 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1612 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1613 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1614 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1615 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1616 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1617 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1618 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1619 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1620 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1621 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1622 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1623 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1624 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1625 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1626 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1627 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1628 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1629 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1630 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1631 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1632 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1633 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1634 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1635 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1636 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1637 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1638 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1639 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1640 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1641 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1642 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1643 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1644 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1645 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1646 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1647 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1648 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1649 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1650 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1651 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1652 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1653 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1654 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1655 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1656 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1657 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1658 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1659 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1660 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1661 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1662 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1663 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1664 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1665 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1666 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1667 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1668 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1669 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1670 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1671 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1672 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1673 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1674 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1675 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1676 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1677 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1678 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1679 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1680 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1681 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1682 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1683 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1684 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1685 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1686 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1687 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1688 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1689 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1690 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1691 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1692 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1693 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1694 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1695 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1696 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1697 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1698 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1699 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1700 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1701 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1702 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1703 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1704 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1705 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1706 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1707 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1708 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1709 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1710 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1711 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1712 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1713 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1714 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1715 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1716 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1717 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1718 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1719 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1720 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1721 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1722 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1723 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1724 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1725 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1726 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1727 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1728 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1729 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1730 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1731 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1732 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1733 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1734 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1735 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1736 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1737 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1738 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1739 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1740 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1741 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1742 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1743 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1744 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1745 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1746 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1747 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1748 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1749 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1750 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1751 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1752 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1753 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1754 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1755 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1756 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1757 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1758 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1759 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1760 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1761 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1762 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1763 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1764 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1765 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1766 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1767 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1768 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1769 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1770 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1771 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1772 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1773 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1774 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1775 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1776 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1777 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1778 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1779 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1780 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1781 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1782 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1783 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1784 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1785 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1786 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1787 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1788 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1789 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1790 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1791 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1792 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1793 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1794 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1795 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1796 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1797 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1798 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1799 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1800 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1801 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1802 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1803 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1804 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1805 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1806 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1807 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1808 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1809 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1810 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1811 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1812 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1813 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1814 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1815 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1816 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1817 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1818 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1819 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1820 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1821 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1822 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1823 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1824 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1825 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1826 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1827 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1828 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1829 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1830 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1831 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1832 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1833 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1834 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1835 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1836 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1837 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1838 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1839 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1840 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1841 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1842 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1843 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1844 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1845 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1846 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1847 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1848 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1849 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1850 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1851 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1852 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1853 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1854 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1855 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1856 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1857 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1858 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1859 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1860 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1861 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1862 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1863 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1864 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1865 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1866 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1867 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1868 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1869 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1870 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1871 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1872 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1873 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1874 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1875 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1876 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1877 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1878 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1879 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1880 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1881 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1882 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1883 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1884 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1885 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1886 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1887 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1888 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1889 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1890 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1891 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1892 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1893 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1894 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1895 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1896 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1897 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1898 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1899 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1900 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1901 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1902 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1903 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1904 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1905 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1906 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1907 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1908 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1909 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1910 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1911 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1912 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1913 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1914 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1915 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1916 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1917 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1918 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1919 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1920 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1921 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1922 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1923 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1924 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1925 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1926 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1927 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1928 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1929 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1930 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1931 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1932 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1933 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1934 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1935 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1936 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1937 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1938 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1939 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1940 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1941 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1942 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1943 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1944 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1945 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1946 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1947 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1948 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1949 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1950 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1951 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1952 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1953 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1954 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1955 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1956 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1957 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1958 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1959 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1960 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1961 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1962 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1963 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1964 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1965 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1966 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1967 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1968 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1969 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1970 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1971 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1972 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1973 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1974 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1975 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1976 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1977 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1978 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1979 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1980 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1981 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1982 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1983 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1984 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1985 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1986 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1987 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1988 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1989 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1990 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1991 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1992 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1993 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1994 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1995 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1996 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1997 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1998 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 1999 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2000 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2001 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2002 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2003 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2004 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2005 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2006 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2007 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2008 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2009 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2010 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2011 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2012 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2013 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2014 of size 64
+Samling frequency: 1600.0
+INFO: Generating batch 2015 of size 64
+Samling frequency: 1600.0
+(2016, 64, 30, 2, 64)
+Traceback (most recent call last):
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'MATLAB/CDL-B_Channel.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tue/20162638/ChannelEstimationTransformer/GenerateDatasets/GenerateChannelsFreqPreMatlab.py", line 143, in <module>
+    scio.savemat(file, mdic)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 287, in savemat
+    with _open_file_context(file_name, appendmat, 'wb') as file_stream:
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/contextlib.py", line 119, in __enter__
+    return next(self.gen)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 17, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'MATLAB/CDL-B_Channel.mat'
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+                  R2023b (23.2.0.2365128) 64-bit (glnxa64)
+                              August 23, 2023
+
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+batch =
+
+     1
+
+
+batch =
+
+     2
+
+
+batch =
+
+     3
+
+
+batch =
+
+     4
+
+
+batch =
+
+     5
+
+
+batch =
+
+     6
+
+
+batch =
+
+     7
+
+
+batch =
+
+     8
+
+
+batch =
+
+     9
+
+
+batch =
+
+    10
+
+
+batch =
+
+    11
+
+
+batch =
+
+    12
+
+
+batch =
+
+    13
+
+
+batch =
+
+    14
+
+
+batch =
+
+    15
+
+
+batch =
+
+    16
+
+
+batch =
+
+    17
+
+
+batch =
+
+    18
+
+
+batch =
+
+    19
+
+
+batch =
+
+    20
+
+
+batch =
+
+    21
+
+
+batch =
+
+    22
+
+
+batch =
+
+    23
+
+
+batch =
+
+    24
+
+
+batch =
+
+    25
+
+
+batch =
+
+    26
+
+
+batch =
+
+    27
+
+
+batch =
+
+    28
+
+
+batch =
+
+    29
+
+
+batch =
+
+    30
+
+
+batch =
+
+    31
+
+
+batch =
+
+    32
+
+
+batch =
+
+    33
+
+
+batch =
+
+    34
+
+
+batch =
+
+    35
+
+
+batch =
+
+    36
+
+
+batch =
+
+    37
+
+
+batch =
+
+    38
+
+
+batch =
+
+    39
+
+
+batch =
+
+    40
+
+
+batch =
+
+    41
+
+
+batch =
+
+    42
+
+
+batch =
+
+    43
+
+
+batch =
+
+    44
+
+
+batch =
+
+    45
+
+
+batch =
+
+    46
+
+
+batch =
+
+    47
+
+
+batch =
+
+    48
+
+
+batch =
+
+    49
+
+
+batch =
+
+    50
+
+
+batch =
+
+    51
+
+
+batch =
+
+    52
+
+
+batch =
+
+    53
+
+
+batch =
+
+    54
+
+
+batch =
+
+    55
+
+
+batch =
+
+    56
+
+
+batch =
+
+    57
+
+
+batch =
+
+    58
+
+
+batch =
+
+    59
+
+
+batch =
+
+    60
+
+
+batch =
+
+    61
+
+
+batch =
+
+    62
+
+
+batch =
+
+    63
+
+
+batch =
+
+    64
+
+
+batch =
+
+    65
+
+
+batch =
+
+    66
+
+
+batch =
+
+    67
+
+
+batch =
+
+    68
+
+
+batch =
+
+    69
+
+
+batch =
+
+    70
+
+
+batch =
+
+    71
+
+
+batch =
+
+    72
+
+
+batch =
+
+    73
+
+
+batch =
+
+    74
+
+
+batch =
+
+    75
+
+
+batch =
+
+    76
+
+
+batch =
+
+    77
+
+
+batch =
+
+    78
+
+
+batch =
+
+    79
+
+
+batch =
+
+    80
+
+
+batch =
+
+    81
+
+
+batch =
+
+    82
+
+
+batch =
+
+    83
+
+
+batch =
+
+    84
+
+
+batch =
+
+    85
+
+
+batch =
+
+    86
+
+
+batch =
+
+    87
+
+
+batch =
+
+    88
+
+
+batch =
+
+    89
+
+
+batch =
+
+    90
+
+
+batch =
+
+    91
+
+
+batch =
+
+    92
+
+
+batch =
+
+    93
+
+
+batch =
+
+    94
+
+
+batch =
+
+    95
+
+
+batch =
+
+    96
+
+
+batch =
+
+    97
+
+
+batch =
+
+    98
+
+
+batch =
+
+    99
+
+
+batch =
+
+   100
+
+
+batch =
+
+   101
+
+
+batch =
+
+   102
+
+
+batch =
+
+   103
+
+
+batch =
+
+   104
+
+
+batch =
+
+   105
+
+
+batch =
+
+   106
+
+
+batch =
+
+   107
+
+
+batch =
+
+   108
+
+
+batch =
+
+   109
+
+
+batch =
+
+   110
+
+
+batch =
+
+   111
+
+
+batch =
+
+   112
+
+
+batch =
+
+   113
+
+
+batch =
+
+   114
+
+
+batch =
+
+   115
+
+
+batch =
+
+   116
+
+
+batch =
+
+   117
+
+
+batch =
+
+   118
+
+
+batch =
+
+   119
+
+
+batch =
+
+   120
+
+
+batch =
+
+   121
+
+
+batch =
+
+   122
+
+
+batch =
+
+   123
+
+
+batch =
+
+   124
+
+
+batch =
+
+   125
+
+
+batch =
+
+   126
+
+
+batch =
+
+   127
+
+
+batch =
+
+   128
+
+
+batch =
+
+   129
+
+
+batch =
+
+   130
+
+
+batch =
+
+   131
+
+
+batch =
+
+   132
+
+
+batch =
+
+   133
+
+
+batch =
+
+   134
+
+
+batch =
+
+   135
+
+
+batch =
+
+   136
+
+
+batch =
+
+   137
+
+
+batch =
+
+   138
+
+
+batch =
+
+   139
+
+
+batch =
+
+   140
+
+
+batch =
+
+   141
+
+
+batch =
+
+   142
+
+
+batch =
+
+   143
+
+
+batch =
+
+   144
+
+
+batch =
+
+   145
+
+
+batch =
+
+   146
+
+
+batch =
+
+   147
+
+
+batch =
+
+   148
+
+
+batch =
+
+   149
+
+
+batch =
+
+   150
+
+
+batch =
+
+   151
+
+
+batch =
+
+   152
+
+
+batch =
+
+   153
+
+
+batch =
+
+   154
+
+
+batch =
+
+   155
+
+
+batch =
+
+   156
+
+
+batch =
+
+   157
+
+
+batch =
+
+   158
+
+
+batch =
+
+   159
+
+
+batch =
+
+   160
+
+
+batch =
+
+   161
+
+
+batch =
+
+   162
+
+
+batch =
+
+   163
+
+
+batch =
+
+   164
+
+
+batch =
+
+   165
+
+
+batch =
+
+   166
+
+
+batch =
+
+   167
+
+
+batch =
+
+   168
+
+
+batch =
+
+   169
+
+
+batch =
+
+   170
+
+
+batch =
+
+   171
+
+
+batch =
+
+   172
+
+
+batch =
+
+   173
+
+
+batch =
+
+   174
+
+
+batch =
+
+   175
+
+
+batch =
+
+   176
+
+
+batch =
+
+   177
+
+
+batch =
+
+   178
+
+
+batch =
+
+   179
+
+
+batch =
+
+   180
+
+
+batch =
+
+   181
+
+
+batch =
+
+   182
+
+
+batch =
+
+   183
+
+
+batch =
+
+   184
+
+
+batch =
+
+   185
+
+
+batch =
+
+   186
+
+
+batch =
+
+   187
+
+
+batch =
+
+   188
+
+
+batch =
+
+   189
+
+
+batch =
+
+   190
+
+
+batch =
+
+   191
+
+
+batch =
+
+   192
+
+
+batch =
+
+   193
+
+
+batch =
+
+   194
+
+
+batch =
+
+   195
+
+
+batch =
+
+   196
+
+
+batch =
+
+   197
+
+
+batch =
+
+   198
+
+
+batch =
+
+   199
+
+
+batch =
+
+   200
+
+
+batch =
+
+   201
+
+
+batch =
+
+   202
+
+
+batch =
+
+   203
+
+
+batch =
+
+   204
+
+
+batch =
+
+   205
+
+
+batch =
+
+   206
+
+
+batch =
+
+   207
+
+
+batch =
+
+   208
+
+
+batch =
+
+   209
+
+
+batch =
+
+   210
+
+
+batch =
+
+   211
+
+
+batch =
+
+   212
+
+
+batch =
+
+   213
+
+
+batch =
+
+   214
+
+
+batch =
+
+   215
+
+
+batch =
+
+   216
+
+
+batch =
+
+   217
+
+
+batch =
+
+   218
+
+
+batch =
+
+   219
+
+
+batch =
+
+   220
+
+
+batch =
+
+   221
+
+
+batch =
+
+   222
+
+
+batch =
+
+   223
+
+
+batch =
+
+   224
+
+
+batch =
+
+   225
+
+
+batch =
+
+   226
+
+
+batch =
+
+   227
+
+
+batch =
+
+   228
+
+
+batch =
+
+   229
+
+
+batch =
+
+   230
+
+
+batch =
+
+   231
+
+
+batch =
+
+   232
+
+
+batch =
+
+   233
+
+
+batch =
+
+   234
+
+
+batch =
+
+   235
+
+
+batch =
+
+   236
+
+
+batch =
+
+   237
+
+
+batch =
+
+   238
+
+
+batch =
+
+   239
+
+
+batch =
+
+   240
+
+
+batch =
+
+   241
+
+
+batch =
+
+   242
+
+
+batch =
+
+   243
+
+
+batch =
+
+   244
+
+
+batch =
+
+   245
+
+
+batch =
+
+   246
+
+
+batch =
+
+   247
+
+
+batch =
+
+   248
+
+
+batch =
+
+   249
+
+
+batch =
+
+   250
+
+
+batch =
+
+   251
+
+
+batch =
+
+   252
+
+
+batch =
+
+   253
+
+
+batch =
+
+   254
+
+
+batch =
+
+   255
+
+
+batch =
+
+   256
+
+
+batch =
+
+   257
+
+
+batch =
+
+   258
+
+
+batch =
+
+   259
+
+
+batch =
+
+   260
+
+
+batch =
+
+   261
+
+
+batch =
+
+   262
+
+
+batch =
+
+   263
+
+
+batch =
+
+   264
+
+
+batch =
+
+   265
+
+
+batch =
+
+   266
+
+
+batch =
+
+   267
+
+
+batch =
+
+   268
+
+
+batch =
+
+   269
+
+
+batch =
+
+   270
+
+
+batch =
+
+   271
+
+
+batch =
+
+   272
+
+
+batch =
+
+   273
+
+
+batch =
+
+   274
+
+
+batch =
+
+   275
+
+
+batch =
+
+   276
+
+
+batch =
+
+   277
+
+
+batch =
+
+   278
+
+
+batch =
+
+   279
+
+
+batch =
+
+   280
+
+
+batch =
+
+   281
+
+
+batch =
+
+   282
+
+
+batch =
+
+   283
+
+
+batch =
+
+   284
+
+
+batch =
+
+   285
+
+
+batch =
+
+   286
+
+
+batch =
+
+   287
+
+
+batch =
+
+   288
+
+
+batch =
+
+   289
+
+
+batch =
+
+   290
+
+
+batch =
+
+   291
+
+
+batch =
+
+   292
+
+
+batch =
+
+   293
+
+
+batch =
+
+   294
+
+
+batch =
+
+   295
+
+
+batch =
+
+   296
+
+
+batch =
+
+   297
+
+
+batch =
+
+   298
+
+
+batch =
+
+   299
+
+
+batch =
+
+   300
+
+
+batch =
+
+   301
+
+
+batch =
+
+   302
+
+
+batch =
+
+   303
+
+
+batch =
+
+   304
+
+
+batch =
+
+   305
+
+
+batch =
+
+   306
+
+
+batch =
+
+   307
+
+
+batch =
+
+   308
+
+
+batch =
+
+   309
+
+
+batch =
+
+   310
+
+
+batch =
+
+   311
+
+
+batch =
+
+   312
+
+
+batch =
+
+   313
+
+
+batch =
+
+   314
+
+
+batch =
+
+   315
+
+
+batch =
+
+   316
+
+
+batch =
+
+   317
+
+
+batch =
+
+   318
+
+
+batch =
+
+   319
+
+
+batch =
+
+   320
+
+
+batch =
+
+   321
+
+
+batch =
+
+   322
+
+
+batch =
+
+   323
+
+
+batch =
+
+   324
+
+
+batch =
+
+   325
+
+
+batch =
+
+   326
+
+
+batch =
+
+   327
+
+
+batch =
+
+   328
+
+
+batch =
+
+   329
+
+
+batch =
+
+   330
+
+
+batch =
+
+   331
+
+
+batch =
+
+   332
+
+
+batch =
+
+   333
+
+
+batch =
+
+   334
+
+
+batch =
+
+   335
+
+
+batch =
+
+   336
+
+
+batch =
+
+   337
+
+
+batch =
+
+   338
+
+
+batch =
+
+   339
+
+
+batch =
+
+   340
+
+
+batch =
+
+   341
+
+
+batch =
+
+   342
+
+
+batch =
+
+   343
+
+
+batch =
+
+   344
+
+
+batch =
+
+   345
+
+
+batch =
+
+   346
+
+
+batch =
+
+   347
+
+
+batch =
+
+   348
+
+
+batch =
+
+   349
+
+
+batch =
+
+   350
+
+
+batch =
+
+   351
+
+
+batch =
+
+   352
+
+
+batch =
+
+   353
+
+
+batch =
+
+   354
+
+
+batch =
+
+   355
+
+
+batch =
+
+   356
+
+
+batch =
+
+   357
+
+
+batch =
+
+   358
+
+
+batch =
+
+   359
+
+
+batch =
+
+   360
+
+
+batch =
+
+   361
+
+
+batch =
+
+   362
+
+
+batch =
+
+   363
+
+
+batch =
+
+   364
+
+
+batch =
+
+   365
+
+
+batch =
+
+   366
+
+
+batch =
+
+   367
+
+
+batch =
+
+   368
+
+
+batch =
+
+   369
+
+
+batch =
+
+   370
+
+
+batch =
+
+   371
+
+
+batch =
+
+   372
+
+
+batch =
+
+   373
+
+
+batch =
+
+   374
+
+
+batch =
+
+   375
+
+
+batch =
+
+   376
+
+
+batch =
+
+   377
+
+
+batch =
+
+   378
+
+
+batch =
+
+   379
+
+
+batch =
+
+   380
+
+
+batch =
+
+   381
+
+
+batch =
+
+   382
+
+
+batch =
+
+   383
+
+
+batch =
+
+   384
+
+
+batch =
+
+   385
+
+
+batch =
+
+   386
+
+
+batch =
+
+   387
+
+
+batch =
+
+   388
+
+
+batch =
+
+   389
+
+
+batch =
+
+   390
+
+
+batch =
+
+   391
+
+
+batch =
+
+   392
+
+
+batch =
+
+   393
+
+
+batch =
+
+   394
+
+
+batch =
+
+   395
+
+
+batch =
+
+   396
+
+
+batch =
+
+   397
+
+
+batch =
+
+   398
+
+
+batch =
+
+   399
+
+
+batch =
+
+   400
+
+
+batch =
+
+   401
+
+
+batch =
+
+   402
+
+
+batch =
+
+   403
+
+
+batch =
+
+   404
+
+
+batch =
+
+   405
+
+
+batch =
+
+   406
+
+
+batch =
+
+   407
+
+
+batch =
+
+   408
+
+
+batch =
+
+   409
+
+
+batch =
+
+   410
+
+
+batch =
+
+   411
+
+
+batch =
+
+   412
+
+
+batch =
+
+   413
+
+
+batch =
+
+   414
+
+
+batch =
+
+   415
+
+
+batch =
+
+   416
+
+
+batch =
+
+   417
+
+
+batch =
+
+   418
+
+
+batch =
+
+   419
+
+
+batch =
+
+   420
+
+
+batch =
+
+   421
+
+
+batch =
+
+   422
+
+
+batch =
+
+   423
+
+
+batch =
+
+   424
+
+
+batch =
+
+   425
+
+
+batch =
+
+   426
+
+
+batch =
+
+   427
+
+
+batch =
+
+   428
+
+
+batch =
+
+   429
+
+
+batch =
+
+   430
+
+
+batch =
+
+   431
+
+
+batch =
+
+   432
+
+
+batch =
+
+   433
+
+
+batch =
+
+   434
+
+
+batch =
+
+   435
+
+
+batch =
+
+   436
+
+
+batch =
+
+   437
+
+
+batch =
+
+   438
+
+
+batch =
+
+   439
+
+
+batch =
+
+   440
+
+
+batch =
+
+   441
+
+
+batch =
+
+   442
+
+
+batch =
+
+   443
+
+
+batch =
+
+   444
+
+
+batch =
+
+   445
+
+
+batch =
+
+   446
+
+
+batch =
+
+   447
+
+
+batch =
+
+   448
+
+
+batch =
+
+   449
+
+
+batch =
+
+   450
+
+
+batch =
+
+   451
+
+
+batch =
+
+   452
+
+
+batch =
+
+   453
+
+
+batch =
+
+   454
+
+
+batch =
+
+   455
+
+
+batch =
+
+   456
+
+
+batch =
+
+   457
+
+
+batch =
+
+   458
+
+
+batch =
+
+   459
+
+
+batch =
+
+   460
+
+
+batch =
+
+   461
+
+
+batch =
+
+   462
+
+
+batch =
+
+   463
+
+
+batch =
+
+   464
+
+
+batch =
+
+   465
+
+
+batch =
+
+   466
+
+
+batch =
+
+   467
+
+
+batch =
+
+   468
+
+
+batch =
+
+   469
+
+
+batch =
+
+   470
+
+
+batch =
+
+   471
+
+
+batch =
+
+   472
+
+
+batch =
+
+   473
+
+
+batch =
+
+   474
+
+
+batch =
+
+   475
+
+
+batch =
+
+   476
+
+
+batch =
+
+   477
+
+
+batch =
+
+   478
+
+
+batch =
+
+   479
+
+
+batch =
+
+   480
+
+
+batch =
+
+   481
+
+
+batch =
+
+   482
+
+
+batch =
+
+   483
+
+
+batch =
+
+   484
+
+
+batch =
+
+   485
+
+
+batch =
+
+   486
+
+
+batch =
+
+   487
+
+
+batch =
+
+   488
+
+
+batch =
+
+   489
+
+
+batch =
+
+   490
+
+
+batch =
+
+   491
+
+
+batch =
+
+   492
+
+
+batch =
+
+   493
+
+
+batch =
+
+   494
+
+
+batch =
+
+   495
+
+
+batch =
+
+   496
+
+
+batch =
+
+   497
+
+
+batch =
+
+   498
+
+
+batch =
+
+   499
+
+
+batch =
+
+   500
+
+
+batch =
+
+   501
+
+
+batch =
+
+   502
+
+
+batch =
+
+   503
+
+
+batch =
+
+   504
+
+
+batch =
+
+   505
+
+
+batch =
+
+   506
+
+
+batch =
+
+   507
+
+
+batch =
+
+   508
+
+
+batch =
+
+   509
+
+
+batch =
+
+   510
+
+
+batch =
+
+   511
+
+
+batch =
+
+   512
+
+
+batch =
+
+   513
+
+
+batch =
+
+   514
+
+
+batch =
+
+   515
+
+
+batch =
+
+   516
+
+
+batch =
+
+   517
+
+
+batch =
+
+   518
+
+
+batch =
+
+   519
+
+
+batch =
+
+   520
+
+
+batch =
+
+   521
+
+
+batch =
+
+   522
+
+
+batch =
+
+   523
+
+
+batch =
+
+   524
+
+
+batch =
+
+   525
+
+
+batch =
+
+   526
+
+
+batch =
+
+   527
+
+
+batch =
+
+   528
+
+
+batch =
+
+   529
+
+
+batch =
+
+   530
+
+
+batch =
+
+   531
+
+
+batch =
+
+   532
+
+
+batch =
+
+   533
+
+
+batch =
+
+   534
+
+
+batch =
+
+   535
+
+
+batch =
+
+   536
+
+
+batch =
+
+   537
+
+
+batch =
+
+   538
+
+
+batch =
+
+   539
+
+
+batch =
+
+   540
+
+
+batch =
+
+   541
+
+
+batch =
+
+   542
+
+
+batch =
+
+   543
+
+
+batch =
+
+   544
+
+
+batch =
+
+   545
+
+
+batch =
+
+   546
+
+
+batch =
+
+   547
+
+
+batch =
+
+   548
+
+
+batch =
+
+   549
+
+
+batch =
+
+   550
+
+
+batch =
+
+   551
+
+
+batch =
+
+   552
+
+
+batch =
+
+   553
+
+
+batch =
+
+   554
+
+
+batch =
+
+   555
+
+
+batch =
+
+   556
+
+
+batch =
+
+   557
+
+
+batch =
+
+   558
+
+
+batch =
+
+   559
+
+
+batch =
+
+   560
+
+
+batch =
+
+   561
+
+
+batch =
+
+   562
+
+
+batch =
+
+   563
+
+
+batch =
+
+   564
+
+
+batch =
+
+   565
+
+
+batch =
+
+   566
+
+
+batch =
+
+   567
+
+
+batch =
+
+   568
+
+
+batch =
+
+   569
+
+
+batch =
+
+   570
+
+
+batch =
+
+   571
+
+
+batch =
+
+   572
+
+
+batch =
+
+   573
+
+
+batch =
+
+   574
+
+
+batch =
+
+   575
+
+
+batch =
+
+   576
+
+
+batch =
+
+   577
+
+
+batch =
+
+   578
+
+
+batch =
+
+   579
+
+
+batch =
+
+   580
+
+
+batch =
+
+   581
+
+
+batch =
+
+   582
+
+
+batch =
+
+   583
+
+
+batch =
+
+   584
+
+
+batch =
+
+   585
+
+
+batch =
+
+   586
+
+
+batch =
+
+   587
+
+
+batch =
+
+   588
+
+
+batch =
+
+   589
+
+
+batch =
+
+   590
+
+
+batch =
+
+   591
+
+
+batch =
+
+   592
+
+
+batch =
+
+   593
+
+
+batch =
+
+   594
+
+
+batch =
+
+   595
+
+
+batch =
+
+   596
+
+
+batch =
+
+   597
+
+
+batch =
+
+   598
+
+
+batch =
+
+   599
+
+
+batch =
+
+   600
+
+
+batch =
+
+   601
+
+
+batch =
+
+   602
+
+
+batch =
+
+   603
+
+
+batch =
+
+   604
+
+
+batch =
+
+   605
+
+
+batch =
+
+   606
+
+
+batch =
+
+   607
+
+
+batch =
+
+   608
+
+
+batch =
+
+   609
+
+
+batch =
+
+   610
+
+
+batch =
+
+   611
+
+
+batch =
+
+   612
+
+
+batch =
+
+   613
+
+
+batch =
+
+   614
+
+
+batch =
+
+   615
+
+
+batch =
+
+   616
+
+
+batch =
+
+   617
+
+
+batch =
+
+   618
+
+
+batch =
+
+   619
+
+
+batch =
+
+   620
+
+
+batch =
+
+   621
+
+
+batch =
+
+   622
+
+
+batch =
+
+   623
+
+
+batch =
+
+   624
+
+
+batch =
+
+   625
+
+
+batch =
+
+   626
+
+
+batch =
+
+   627
+
+
+batch =
+
+   628
+
+
+batch =
+
+   629
+
+
+batch =
+
+   630
+
+
+batch =
+
+   631
+
+
+batch =
+
+   632
+
+
+batch =
+
+   633
+
+
+batch =
+
+   634
+
+
+batch =
+
+   635
+
+
+batch =
+
+   636
+
+
+batch =
+
+   637
+
+
+batch =
+
+   638
+
+
+batch =
+
+   639
+
+
+batch =
+
+   640
+
+
+batch =
+
+   641
+
+
+batch =
+
+   642
+
+
+batch =
+
+   643
+
+
+batch =
+
+   644
+
+
+batch =
+
+   645
+
+
+batch =
+
+   646
+
+
+batch =
+
+   647
+
+
+batch =
+
+   648
+
+
+batch =
+
+   649
+
+
+batch =
+
+   650
+
+
+batch =
+
+   651
+
+
+batch =
+
+   652
+
+
+batch =
+
+   653
+
+
+batch =
+
+   654
+
+
+batch =
+
+   655
+
+
+batch =
+
+   656
+
+
+batch =
+
+   657
+
+
+batch =
+
+   658
+
+
+batch =
+
+   659
+
+
+batch =
+
+   660
+
+
+batch =
+
+   661
+
+
+batch =
+
+   662
+
+
+batch =
+
+   663
+
+
+batch =
+
+   664
+
+
+batch =
+
+   665
+
+
+batch =
+
+   666
+
+
+batch =
+
+   667
+
+
+batch =
+
+   668
+
+
+batch =
+
+   669
+
+
+batch =
+
+   670
+
+
+batch =
+
+   671
+
+
+batch =
+
+   672
+
+
+batch =
+
+   673
+
+
+batch =
+
+   674
+
+
+batch =
+
+   675
+
+
+batch =
+
+   676
+
+
+batch =
+
+   677
+
+
+batch =
+
+   678
+
+
+batch =
+
+   679
+
+
+batch =
+
+   680
+
+
+batch =
+
+   681
+
+
+batch =
+
+   682
+
+
+batch =
+
+   683
+
+
+batch =
+
+   684
+
+
+batch =
+
+   685
+
+
+batch =
+
+   686
+
+
+batch =
+
+   687
+
+
+batch =
+
+   688
+
+
+batch =
+
+   689
+
+
+batch =
+
+   690
+
+
+batch =
+
+   691
+
+
+batch =
+
+   692
+
+
+batch =
+
+   693
+
+
+batch =
+
+   694
+
+
+batch =
+
+   695
+
+
+batch =
+
+   696
+
+
+batch =
+
+   697
+
+
+batch =
+
+   698
+
+
+batch =
+
+   699
+
+
+batch =
+
+   700
+
+
+batch =
+
+   701
+
+
+batch =
+
+   702
+
+
+batch =
+
+   703
+
+
+batch =
+
+   704
+
+
+batch =
+
+   705
+
+
+batch =
+
+   706
+
+
+batch =
+
+   707
+
+
+batch =
+
+   708
+
+
+batch =
+
+   709
+
+
+batch =
+
+   710
+
+
+batch =
+
+   711
+
+
+batch =
+
+   712
+
+
+batch =
+
+   713
+
+
+batch =
+
+   714
+
+
+batch =
+
+   715
+
+
+batch =
+
+   716
+
+
+batch =
+
+   717
+
+
+batch =
+
+   718
+
+
+batch =
+
+   719
+
+
+batch =
+
+   720
+
+
+batch =
+
+   721
+
+
+batch =
+
+   722
+
+
+batch =
+
+   723
+
+
+batch =
+
+   724
+
+
+batch =
+
+   725
+
+
+batch =
+
+   726
+
+
+batch =
+
+   727
+
+
+batch =
+
+   728
+
+
+batch =
+
+   729
+
+
+batch =
+
+   730
+
+
+batch =
+
+   731
+
+
+batch =
+
+   732
+
+
+batch =
+
+   733
+
+
+batch =
+
+   734
+
+
+batch =
+
+   735
+
+
+batch =
+
+   736
+
+
+batch =
+
+   737
+
+
+batch =
+
+   738
+
+
+batch =
+
+   739
+
+
+batch =
+
+   740
+
+
+batch =
+
+   741
+
+
+batch =
+
+   742
+
+
+batch =
+
+   743
+
+
+batch =
+
+   744
+
+
+batch =
+
+   745
+
+
+batch =
+
+   746
+
+
+batch =
+
+   747
+
+
+batch =
+
+   748
+
+
+batch =
+
+   749
+
+
+batch =
+
+   750
+
+
+batch =
+
+   751
+
+
+batch =
+
+   752
+
+
+batch =
+
+   753
+
+
+batch =
+
+   754
+
+
+batch =
+
+   755
+
+
+batch =
+
+   756
+
+
+batch =
+
+   757
+
+
+batch =
+
+   758
+
+
+batch =
+
+   759
+
+
+batch =
+
+   760
+
+
+batch =
+
+   761
+
+
+batch =
+
+   762
+
+
+batch =
+
+   763
+
+
+batch =
+
+   764
+
+
+batch =
+
+   765
+
+
+batch =
+
+   766
+
+
+batch =
+
+   767
+
+
+batch =
+
+   768
+
+
+batch =
+
+   769
+
+
+batch =
+
+   770
+
+
+batch =
+
+   771
+
+
+batch =
+
+   772
+
+
+batch =
+
+   773
+
+
+batch =
+
+   774
+
+
+batch =
+
+   775
+
+
+batch =
+
+   776
+
+
+batch =
+
+   777
+
+
+batch =
+
+   778
+
+
+batch =
+
+   779
+
+
+batch =
+
+   780
+
+
+batch =
+
+   781
+
+
+batch =
+
+   782
+
+
+batch =
+
+   783
+
+
+batch =
+
+   784
+
+
+batch =
+
+   785
+
+
+batch =
+
+   786
+
+
+batch =
+
+   787
+
+
+batch =
+
+   788
+
+
+batch =
+
+   789
+
+
+batch =
+
+   790
+
+
+batch =
+
+   791
+
+
+batch =
+
+   792
+
+
+batch =
+
+   793
+
+
+batch =
+
+   794
+
+
+batch =
+
+   795
+
+
+batch =
+
+   796
+
+
+batch =
+
+   797
+
+
+batch =
+
+   798
+
+
+batch =
+
+   799
+
+
+batch =
+
+   800
+
+
+batch =
+
+   801
+
+
+batch =
+
+   802
+
+
+batch =
+
+   803
+
+
+batch =
+
+   804
+
+
+batch =
+
+   805
+
+
+batch =
+
+   806
+
+
+batch =
+
+   807
+
+
+batch =
+
+   808
+
+
+batch =
+
+   809
+
+
+batch =
+
+   810
+
+
+batch =
+
+   811
+
+
+batch =
+
+   812
+
+
+batch =
+
+   813
+
+
+batch =
+
+   814
+
+
+batch =
+
+   815
+
+
+batch =
+
+   816
+
+
+batch =
+
+   817
+
+
+batch =
+
+   818
+
+
+batch =
+
+   819
+
+
+batch =
+
+   820
+
+
+batch =
+
+   821
+
+
+batch =
+
+   822
+
+
+batch =
+
+   823
+
+
+batch =
+
+   824
+
+
+batch =
+
+   825
+
+
+batch =
+
+   826
+
+
+batch =
+
+   827
+
+
+batch =
+
+   828
+
+
+batch =
+
+   829
+
+
+batch =
+
+   830
+
+
+batch =
+
+   831
+
+
+batch =
+
+   832
+
+
+batch =
+
+   833
+
+
+batch =
+
+   834
+
+
+batch =
+
+   835
+
+
+batch =
+
+   836
+
+
+batch =
+
+   837
+
+
+batch =
+
+   838
+
+
+batch =
+
+   839
+
+
+batch =
+
+   840
+
+
+batch =
+
+   841
+
+
+batch =
+
+   842
+
+
+batch =
+
+   843
+
+
+batch =
+
+   844
+
+
+batch =
+
+   845
+
+
+batch =
+
+   846
+
+
+batch =
+
+   847
+
+
+batch =
+
+   848
+
+
+batch =
+
+   849
+
+
+batch =
+
+   850
+
+
+batch =
+
+   851
+
+
+batch =
+
+   852
+
+
+batch =
+
+   853
+
+
+batch =
+
+   854
+
+
+batch =
+
+   855
+
+
+batch =
+
+   856
+
+
+batch =
+
+   857
+
+
+batch =
+
+   858
+
+
+batch =
+
+   859
+
+
+batch =
+
+   860
+
+
+batch =
+
+   861
+
+
+batch =
+
+   862
+
+
+batch =
+
+   863
+
+
+batch =
+
+   864
+
+
+batch =
+
+   865
+
+
+batch =
+
+   866
+
+
+batch =
+
+   867
+
+
+batch =
+
+   868
+
+
+batch =
+
+   869
+
+
+batch =
+
+   870
+
+
+batch =
+
+   871
+
+
+batch =
+
+   872
+
+
+batch =
+
+   873
+
+
+batch =
+
+   874
+
+
+batch =
+
+   875
+
+
+batch =
+
+   876
+
+
+batch =
+
+   877
+
+
+batch =
+
+   878
+
+
+batch =
+
+   879
+
+
+batch =
+
+   880
+
+
+batch =
+
+   881
+
+
+batch =
+
+   882
+
+
+batch =
+
+   883
+
+
+batch =
+
+   884
+
+
+batch =
+
+   885
+
+
+batch =
+
+   886
+
+
+batch =
+
+   887
+
+
+batch =
+
+   888
+
+
+batch =
+
+   889
+
+
+batch =
+
+   890
+
+
+batch =
+
+   891
+
+
+batch =
+
+   892
+
+
+batch =
+
+   893
+
+
+batch =
+
+   894
+
+
+batch =
+
+   895
+
+
+batch =
+
+   896
+
+
+batch =
+
+   897
+
+
+batch =
+
+   898
+
+
+batch =
+
+   899
+
+
+batch =
+
+   900
+
+
+batch =
+
+   901
+
+
+batch =
+
+   902
+
+
+batch =
+
+   903
+
+
+batch =
+
+   904
+
+
+batch =
+
+   905
+
+
+batch =
+
+   906
+
+
+batch =
+
+   907
+
+
+batch =
+
+   908
+
+
+batch =
+
+   909
+
+
+batch =
+
+   910
+
+
+batch =
+
+   911
+
+
+batch =
+
+   912
+
+
+batch =
+
+   913
+
+
+batch =
+
+   914
+
+
+batch =
+
+   915
+
+
+batch =
+
+   916
+
+
+batch =
+
+   917
+
+
+batch =
+
+   918
+
+
+batch =
+
+   919
+
+
+batch =
+
+   920
+
+
+batch =
+
+   921
+
+
+batch =
+
+   922
+
+
+batch =
+
+   923
+
+
+batch =
+
+   924
+
+
+batch =
+
+   925
+
+
+batch =
+
+   926
+
+
+batch =
+
+   927
+
+
+batch =
+
+   928
+
+
+batch =
+
+   929
+
+
+batch =
+
+   930
+
+
+batch =
+
+   931
+
+
+batch =
+
+   932
+
+
+batch =
+
+   933
+
+
+batch =
+
+   934
+
+
+batch =
+
+   935
+
+
+batch =
+
+   936
+
+
+batch =
+
+   937
+
+
+batch =
+
+   938
+
+
+batch =
+
+   939
+
+
+batch =
+
+   940
+
+
+batch =
+
+   941
+
+
+batch =
+
+   942
+
+
+batch =
+
+   943
+
+
+batch =
+
+   944
+
+
+batch =
+
+   945
+
+
+batch =
+
+   946
+
+
+batch =
+
+   947
+
+
+batch =
+
+   948
+
+
+batch =
+
+   949
+
+
+batch =
+
+   950
+
+
+batch =
+
+   951
+
+
+batch =
+
+   952
+
+
+batch =
+
+   953
+
+
+batch =
+
+   954
+
+
+batch =
+
+   955
+
+
+batch =
+
+   956
+
+
+batch =
+
+   957
+
+
+batch =
+
+   958
+
+
+batch =
+
+   959
+
+
+batch =
+
+   960
+
+
+batch =
+
+   961
+
+
+batch =
+
+   962
+
+
+batch =
+
+   963
+
+
+batch =
+
+   964
+
+
+batch =
+
+   965
+
+
+batch =
+
+   966
+
+
+batch =
+
+   967
+
+
+batch =
+
+   968
+
+
+batch =
+
+   969
+
+
+batch =
+
+   970
+
+
+batch =
+
+   971
+
+
+batch =
+
+   972
+
+
+batch =
+
+   973
+
+
+batch =
+
+   974
+
+
+batch =
+
+   975
+
+
+batch =
+
+   976
+
+
+batch =
+
+   977
+
+
+batch =
+
+   978
+
+
+batch =
+
+   979
+
+
+batch =
+
+   980
+
+
+batch =
+
+   981
+
+
+batch =
+
+   982
+
+
+batch =
+
+   983
+
+
+batch =
+
+   984
+
+
+batch =
+
+   985
+
+
+batch =
+
+   986
+
+
+batch =
+
+   987
+
+
+batch =
+
+   988
+
+
+batch =
+
+   989
+
+
+batch =
+
+   990
+
+
+batch =
+
+   991
+
+
+batch =
+
+   992
+
+
+batch =
+
+   993
+
+
+batch =
+
+   994
+
+
+batch =
+
+   995
+
+
+batch =
+
+   996
+
+
+batch =
+
+   997
+
+
+batch =
+
+   998
+
+
+batch =
+
+   999
+
+
+batch =
+
+        1000
+
+
+batch =
+
+        1001
+
+
+batch =
+
+        1002
+
+
+batch =
+
+        1003
+
+
+batch =
+
+        1004
+
+
+batch =
+
+        1005
+
+
+batch =
+
+        1006
+
+
+batch =
+
+        1007
+
+
+batch =
+
+        1008
+
+
+batch =
+
+        1009
+
+
+batch =
+
+        1010
+
+
+batch =
+
+        1011
+
+
+batch =
+
+        1012
+
+
+batch =
+
+        1013
+
+
+batch =
+
+        1014
+
+
+batch =
+
+        1015
+
+
+batch =
+
+        1016
+
+Traceback (most recent call last):
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 39, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'MATLAB/RF_Channel.mat'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tue/20162638/ChannelEstimationTransformer/GenerateDatasets/GenerateChannelsFreqPostMatlab.py", line 7, in <module>
+    dict = scio.loadmat("MATLAB/RF_Channel.mat")
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 225, in loadmat
+    with _open_file_context(file_name, appendmat) as f:
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/contextlib.py", line 119, in __enter__
+    return next(self.gen)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 17, in _open_file_context
+    f, opened = _open_file(file_like, appendmat, mode)
+  File "/home/tue/20162638/miniconda3/envs/sionna/lib/python3.9/site-packages/scipy/io/matlab/_mio.py", line 45, in _open_file
+    return open(file_like, mode), True
+FileNotFoundError: [Errno 2] No such file or directory: 'MATLAB/RF_Channel.mat'

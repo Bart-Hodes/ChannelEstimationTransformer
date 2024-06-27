@@ -1,0 +1,13 @@
+HPC/TrainTransformer_output_*.txt
+HPC/ChannelPredictionPlots/*.png
+*.pickle
+*.mat
+*.pt
+*.json
+*.pkl
+
+OwnTransformer/weights/*
+
+Examples/*
+log/
+runs/

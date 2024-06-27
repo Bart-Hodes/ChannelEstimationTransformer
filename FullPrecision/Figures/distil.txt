@@ -1,0 +1,1408 @@
+Model_name:  ei_16_di_16_co_16_sl_90_ll_10_pl_5_f_5_dm_128_nh_8_el_[4, 3]_dl_3_df_64_do_0.05_at_full_em_fixed_ac_gelu
+Using device: cuda
+Device name: NVIDIA A100 80GB PCIe
+Device memory: 79.1500244140625 GB
+| epoch   0 |    22/  226 batches | lr 1.000000e-03 | ms/batch 94.29 | loss  0.99  | Loss pred len  0:  0.97 1:  0.98 2:  0.92 3:  0.98 4:  1.11
+| epoch   0 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.04 | loss  0.49  | Loss pred len  0:  0.49 1:  0.47 2:  0.30 3:  0.42 4:  0.75
+| epoch   0 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.06 | loss  0.26  | Loss pred len  0:  0.22 1:  0.28 2:  0.18 3:  0.21 4:  0.42
+| epoch   0 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.72 | loss  0.15  | Loss pred len  0:  0.12 1:  0.14 2:  0.13 3:  0.12 4:  0.26
+| epoch   0 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.33 | loss  0.10  | Loss pred len  0:  0.08 1:  0.09 2:  0.10 3:  0.08 4:  0.15
+| epoch   0 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.79 | loss  0.08  | Loss pred len  0:  0.07 1:  0.07 2:  0.08 3:  0.06 4:  0.11
+| epoch   0 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.44 | loss  0.07  | Loss pred len  0:  0.06 1:  0.06 2:  0.07 3:  0.06 4:  0.10
+| epoch   0 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.54 | loss  0.06  | Loss pred len  0:  0.06 1:  0.05 2:  0.06 3:  0.05 4:  0.09
+| epoch   0 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.61 | loss  0.06  | Loss pred len  0:  0.06 1:  0.05 2:  0.06 3:  0.05 4:  0.08
+| epoch   0 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.44 | loss  0.06  | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.05 4:  0.08
+tensor([0.0452, 0.0546, 0.0509, 0.0246, 0.0486], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   0 | time: 17.97s | valid loss 0.04476703330874443 | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.02 4:  0.05
+-----------------------------------------------------------------------------------------
+| epoch   1 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.55 | loss  0.06  | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.05 4:  0.08
+| epoch   1 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.69 | loss  0.05  | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.04 4:  0.07
+| epoch   1 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.05  | Loss pred len  0:  0.05 1:  0.04 2:  0.05 3:  0.04 4:  0.07
+| epoch   1 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.62 | loss  0.05  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.98 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   132/  226 batches | lr 1.000000e-03 | ms/batch 79.53 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.96 | loss  0.04  | Loss pred len  0:  0.04 1:  0.03 2:  0.04 3:  0.04 4:  0.05
+| epoch   1 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.97 | loss  0.04  | Loss pred len  0:  0.04 1:  0.03 2:  0.04 3:  0.04 4:  0.05
+| epoch   1 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.89 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.03 4:  0.05
+| epoch   1 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.74 | loss  0.04  | Loss pred len  0:  0.04 1:  0.03 2:  0.04 3:  0.03 4:  0.05
+tensor([0.0324, 0.0407, 0.0406, 0.0336, 0.0461], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 17.70s | valid loss 0.03872310742735863 | Loss pred len  0:  0.03 1:  0.04 2:  0.04 3:  0.03 4:  0.05
+-----------------------------------------------------------------------------------------
+| epoch   2 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.31 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.05
+| epoch   2 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+| epoch   2 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.03 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+| epoch   2 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.41 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.76 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.92 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+tensor([0.0302, 0.0378, 0.0268, 0.0154, 0.0193], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 17.64s | valid loss 0.02590937726199627 | Loss pred len  0:  0.03 1:  0.04 2:  0.03 3:  0.02 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   3 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.32 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.00 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    66/  226 batches | lr 1.000000e-03 | ms/batch 80.07 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.03  | Loss pred len  0:  0.02 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.03
+| epoch   3 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.03  | Loss pred len  0:  0.02 1:  0.03 2:  0.03 3:  0.02 4:  0.03
+| epoch   3 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.03 4:  0.03
+| epoch   3 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   3 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.03 4:  0.03
+tensor([0.0195, 0.0267, 0.0222, 0.0152, 0.0170], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 17.69s | valid loss 0.020116690546274185 | Loss pred len  0:  0.02 1:  0.03 2:  0.02 3:  0.02 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   4 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.67 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |    44/  226 batches | lr 1.000000e-03 | ms/batch 79.96 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.83 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.99 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.63 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.15 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+tensor([0.0132, 0.0198, 0.0167, 0.0128, 0.0156], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 17.72s | valid loss 0.015605993568897247 | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   5 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.88 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.62 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.76 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.34 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.81 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.65 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.46 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.58 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   220/  226 batches | lr 1.000000e-03 | ms/batch 79.50 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+tensor([0.0206, 0.0273, 0.0207, 0.0145, 0.0176], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 17.63s | valid loss 0.02012254297733307 | Loss pred len  0:  0.02 1:  0.03 2:  0.02 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   6 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.52 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.79 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.57 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.54 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.30 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.86 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   154/  226 batches | lr 1.000000e-03 | ms/batch 75.50 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   176/  226 batches | lr 1.000000e-03 | ms/batch 75.29 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   6 |   198/  226 batches | lr 1.000000e-03 | ms/batch 78.58 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   6 |   220/  226 batches | lr 1.000000e-03 | ms/batch 75.34 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0110, 0.0135, 0.0126, 0.0099, 0.0141], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 17.51s | valid loss 0.012195783667266369 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch   7 |    22/  226 batches | lr 1.000000e-03 | ms/batch 79.53 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |    44/  226 batches | lr 1.000000e-03 | ms/batch 75.71 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |    66/  226 batches | lr 1.000000e-03 | ms/batch 75.45 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |    88/  226 batches | lr 1.000000e-03 | ms/batch 75.52 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   110/  226 batches | lr 1.000000e-03 | ms/batch 75.62 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   132/  226 batches | lr 1.000000e-03 | ms/batch 75.71 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   154/  226 batches | lr 1.000000e-03 | ms/batch 75.64 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   176/  226 batches | lr 1.000000e-03 | ms/batch 75.86 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.01 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.43 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0093, 0.0192, 0.0210, 0.0147, 0.0131], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 17.36s | valid loss 0.01544947363436222 | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch   8 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.09 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.96 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.74 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   110/  226 batches | lr 1.000000e-03 | ms/batch 79.43 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.76 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.59 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.38 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.40 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.78 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0075, 0.0099, 0.0088, 0.0084, 0.0097], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 17.62s | valid loss 0.008845636621117592 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch   9 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.48 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.62 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.99 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |    88/  226 batches | lr 1.000000e-03 | ms/batch 79.90 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.73 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.99 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.72 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.75 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.94 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0128, 0.0166, 0.0134, 0.0099, 0.0102], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 17.67s | valid loss 0.012573820538818836 | Loss pred len  0:  0.01 1:  0.02 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  10 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.39 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.80 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.70 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.08 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.73 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.84 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.89 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  10 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.81 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0066, 0.0101, 0.0082, 0.0069, 0.0103], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 17.59s | valid loss 0.00844417605549097 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  11 |    22/  226 batches | lr 1.000000e-03 | ms/batch 83.58 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  11 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.90 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.59 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.01 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.78 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  11 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.09 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+tensor([0.0095, 0.0135, 0.0099, 0.0076, 0.0092], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 17.77s | valid loss 0.00995467510074377 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  12 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.50 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.70 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.69 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.53 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  12 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  12 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.80 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.31 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.24 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0072, 0.0119, 0.0115, 0.0100, 0.0118], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 17.58s | valid loss 0.010473939590156078 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  13 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.29 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.83 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.59 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  13 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.85 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |   154/  226 batches | lr 1.000000e-03 | ms/batch 79.63 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.89 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.83 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.61 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+tensor([0.0112, 0.0126, 0.0091, 0.0055, 0.0070], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 17.66s | valid loss 0.009072880260646343 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  14 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.18 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  14 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.07 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.72 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  14 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   154/  226 batches | lr 1.000000e-03 | ms/batch 79.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0072, 0.0105, 0.0089, 0.0065, 0.0077], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 17.64s | valid loss 0.00815530400723219 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  15 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.05 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  15 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.41 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.64 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.57 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.98 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  15 |   198/  226 batches | lr 1.000000e-03 | ms/batch 79.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0063, 0.0085, 0.0089, 0.0076, 0.0074], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 17.70s | valid loss 0.007713066879659891 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  16 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.03 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  16 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.55 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |    88/  226 batches | lr 1.000000e-03 | ms/batch 79.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.94 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  16 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   220/  226 batches | lr 1.000000e-03 | ms/batch 79.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0055, 0.0092, 0.0087, 0.0083, 0.0091], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 17.71s | valid loss 0.008190236054360867 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  17 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  17 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |    66/  226 batches | lr 1.000000e-03 | ms/batch 79.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.69 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.19 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0072, 0.0139, 0.0150, 0.0125, 0.0107], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 17.63s | valid loss 0.011879326775670052 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  18 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.64 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  18 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.77 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   132/  226 batches | lr 1.000000e-03 | ms/batch 79.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0069, 0.0122, 0.0099, 0.0066, 0.0069], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 17.79s | valid loss 0.008502942509949207 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  19 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.45 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.10 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.89 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.02 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0068, 0.0126, 0.0111, 0.0078, 0.0071], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 17.76s | valid loss 0.009074081666767597 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  20 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    66/  226 batches | lr 1.000000e-03 | ms/batch 78.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.03 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.12 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0067, 0.0080, 0.0062, 0.0048, 0.0043], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 17.71s | valid loss 0.005998589564114809 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.00 4:  0.00
+-----------------------------------------------------------------------------------------
+| epoch  21 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.16 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.98 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   154/  226 batches | lr 1.000000e-03 | ms/batch 80.41 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.96 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0059, 0.0110, 0.0116, 0.0090, 0.0095], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 17.80s | valid loss 0.00939791090786457 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  22 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.10 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.96 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   110/  226 batches | lr 1.000000e-03 | ms/batch 80.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0082, 0.0129, 0.0108, 0.0086, 0.0077], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 17.78s | valid loss 0.009626842103898525 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  23 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.41 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0110, 0.0128, 0.0079, 0.0051, 0.0066], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 17.76s | valid loss 0.00867968238890171 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  24 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    66/  226 batches | lr 1.000000e-03 | ms/batch 80.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.34 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0066, 0.0107, 0.0098, 0.0077, 0.0077], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 17.75s | valid loss 0.00849891733378172 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  25 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    44/  226 batches | lr 1.000000e-03 | ms/batch 81.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.07 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.21 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.55 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0047, 0.0073, 0.0067, 0.0055, 0.0072], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 17.81s | valid loss 0.006291238125413656 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  26 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.07 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.94 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  26 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0063, 0.0090, 0.0082, 0.0058, 0.0059], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 17.74s | valid loss 0.0070512667298316956 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  27 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.04 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.03 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  27 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.04 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.31 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0046, 0.0067, 0.0059, 0.0048, 0.0057], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 17.75s | valid loss 0.005548727698624134 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  28 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.12 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.34 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.34 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0043, 0.0063, 0.0060, 0.0059, 0.0079], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 17.71s | valid loss 0.0060645402409136295 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  29 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.16 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0038, 0.0062, 0.0062, 0.0047, 0.0051], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 17.77s | valid loss 0.005179675295948982 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  30 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.96 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.41 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0049, 0.0074, 0.0084, 0.0071, 0.0069], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 17.79s | valid loss 0.00694970041513443 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  31 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.06 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  31 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.07 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.02 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0030, 0.0040, 0.0045, 0.0053, 0.0066], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 17.70s | valid loss 0.00469292001798749 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  32 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  32 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.96 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.20 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0041, 0.0064, 0.0067, 0.0066, 0.0067], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 17.77s | valid loss 0.006106077693402767 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  33 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  33 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.34 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0044, 0.0070, 0.0076, 0.0058, 0.0063], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 17.81s | valid loss 0.006201726384460926 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  34 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.19 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  34 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.10 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  34 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0035, 0.0053, 0.0062, 0.0058, 0.0068], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 17.81s | valid loss 0.0055180382914841175 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  35 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  35 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.06 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.89 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   176/  226 batches | lr 1.000000e-03 | ms/batch 80.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0031, 0.0043, 0.0048, 0.0061, 0.0073], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 17.74s | valid loss 0.005098199006170034 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  36 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  36 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.33 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0036, 0.0050, 0.0052, 0.0048, 0.0055], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 17.67s | valid loss 0.004817195702344179 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  37 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.16 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.06 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.04 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0040, 0.0047, 0.0039, 0.0048, 0.0063], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 17.75s | valid loss 0.004737125243991613 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  38 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.91 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0038, 0.0067, 0.0073, 0.0073, 0.0071], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 17.80s | valid loss 0.00644582649692893 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  39 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.21 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.07 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0032, 0.0042, 0.0052, 0.0065, 0.0091], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 17.64s | valid loss 0.005645271390676498 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  40 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.10 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.91 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0034, 0.0045, 0.0048, 0.0049, 0.0046], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 17.77s | valid loss 0.00442357687279582 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.00
+-----------------------------------------------------------------------------------------
+| epoch  41 |    22/  226 batches | lr 1.000000e-03 | ms/batch 84.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0041, 0.0049, 0.0061, 0.0074, 0.0105], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  41 | time: 17.82s | valid loss 0.00659966329112649 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  42 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.41 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.31 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.12 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0032, 0.0040, 0.0038, 0.0057, 0.0055], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  42 | time: 17.78s | valid loss 0.004426122177392244 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  43 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.77 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.12 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.89 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   176/  226 batches | lr 1.000000e-03 | ms/batch 80.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0031, 0.0038, 0.0050, 0.0065, 0.0079], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  43 | time: 17.78s | valid loss 0.0052679539658129215 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  44 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.98 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.16 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.19 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0042, 0.0055, 0.0078, 0.0082, 0.0076], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  44 | time: 17.68s | valid loss 0.006663152482360601 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  45 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   110/  226 batches | lr 1.000000e-03 | ms/batch 80.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0022, 0.0029, 0.0039, 0.0053, 0.0064], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  45 | time: 17.77s | valid loss 0.004143171943724155 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  46 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.89 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.02 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0041, 0.0062, 0.0062, 0.0054, 0.0075], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  46 | time: 17.77s | valid loss 0.005886621307581663 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  47 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.04 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0022, 0.0027, 0.0035, 0.0054, 0.0082], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  47 | time: 17.68s | valid loss 0.004411333706229925 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  48 |    22/  226 batches | lr 1.000000e-03 | ms/batch 84.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.33 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0036, 0.0057, 0.0077, 0.0102, 0.0098], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  48 | time: 17.82s | valid loss 0.007422724273055792 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  49 |    22/  226 batches | lr 1.000000e-03 | ms/batch 86.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.94 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.15 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.18 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0017, 0.0028, 0.0040, 0.0043, 0.0047], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  49 | time: 17.82s | valid loss 0.003497728379443288 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.00
+-----------------------------------------------------------------------------------------
+Model_name:  ei_16_di_16_co_16_sl_90_ll_10_pl_5_f_5_dm_128_nh_8_el_[4, 3]_dl_3_df_64_do_0.05_at_full_em_fixed_ac_gelu
+Using device: cuda
+Device name: NVIDIA A100 80GB PCIe
+Device memory: 79.1500244140625 GB
+| epoch   0 |    22/  226 batches | lr 1.000000e-03 | ms/batch 95.44 | loss  1.00  | Loss pred len  0:  1.00 1:  0.97 2:  0.92 3:  0.98 4:  1.12
+| epoch   0 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.23 | loss  0.50  | Loss pred len  0:  0.52 1:  0.45 2:  0.29 3:  0.43 4:  0.79
+| epoch   0 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.33 | loss  0.28  | Loss pred len  0:  0.24 1:  0.29 2:  0.16 3:  0.23 4:  0.47
+| epoch   0 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.30 | loss  0.17  | Loss pred len  0:  0.14 1:  0.18 2:  0.11 3:  0.13 4:  0.29
+| epoch   0 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.14 | loss  0.11  | Loss pred len  0:  0.10 1:  0.11 2:  0.09 3:  0.09 4:  0.17
+| epoch   0 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.08  | Loss pred len  0:  0.08 1:  0.08 2:  0.07 3:  0.07 4:  0.12
+| epoch   0 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.07  | Loss pred len  0:  0.07 1:  0.06 2:  0.07 3:  0.06 4:  0.10
+| epoch   0 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.06  | Loss pred len  0:  0.06 1:  0.06 2:  0.06 3:  0.05 4:  0.09
+| epoch   0 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.22 | loss  0.06  | Loss pred len  0:  0.06 1:  0.05 2:  0.06 3:  0.05 4:  0.08
+| epoch   0 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.06  | Loss pred len  0:  0.06 1:  0.05 2:  0.05 3:  0.05 4:  0.07
+tensor([0.0352, 0.0393, 0.0430, 0.0340, 0.0567], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   0 | time: 18.20s | valid loss 0.04164435341954231 | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.03 4:  0.06
+-----------------------------------------------------------------------------------------
+| epoch   1 |    22/  226 batches | lr 1.000000e-03 | ms/batch 82.08 | loss  0.06  | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.05 4:  0.07
+| epoch   1 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.97 | loss  0.05  | Loss pred len  0:  0.05 1:  0.05 2:  0.05 3:  0.04 4:  0.07
+| epoch   1 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.93 | loss  0.05  | Loss pred len  0:  0.05 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.15 | loss  0.05  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.25 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.65 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.06
+| epoch   1 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.03 4:  0.05
+| epoch   1 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.03 4:  0.05
+| epoch   1 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.04  | Loss pred len  0:  0.04 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+tensor([0.0295, 0.0343, 0.0282, 0.0207, 0.0318], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   1 | time: 17.87s | valid loss 0.028872892260551453 | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.02 4:  0.03
+-----------------------------------------------------------------------------------------
+| epoch   2 |    22/  226 batches | lr 1.000000e-03 | ms/batch 82.17 | loss  0.04  | Loss pred len  0:  0.04 1:  0.04 2:  0.04 3:  0.04 4:  0.05
+| epoch   2 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+| epoch   2 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.91 | loss  0.04  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+| epoch   2 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.98 | loss  0.04  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.05
+| epoch   2 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.03 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   2 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+tensor([0.0287, 0.0325, 0.0262, 0.0199, 0.0310], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   2 | time: 17.83s | valid loss 0.027665818110108376 | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.02 4:  0.03
+-----------------------------------------------------------------------------------------
+| epoch   3 |    22/  226 batches | lr 1.000000e-03 | ms/batch 82.07 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.03 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    66/  226 batches | lr 1.000000e-03 | ms/batch 80.83 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   3 |   132/  226 batches | lr 1.000000e-03 | ms/batch 78.34 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.02 3:  0.03 4:  0.04
+| epoch   3 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.03  | Loss pred len  0:  0.02 1:  0.03 2:  0.02 3:  0.02 4:  0.04
+| epoch   3 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.02 3:  0.02 4:  0.03
+| epoch   3 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.02 3:  0.02 4:  0.03
+| epoch   3 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+tensor([0.0231, 0.0237, 0.0186, 0.0183, 0.0309], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   3 | time: 17.89s | valid loss 0.02291475050151348 | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+-----------------------------------------------------------------------------------------
+| epoch   4 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.99 | loss  0.03  | Loss pred len  0:  0.03 1:  0.03 2:  0.03 3:  0.03 4:  0.04
+| epoch   4 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.55 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.91 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.69 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.25 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.03  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.84 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   4 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.02 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+tensor([0.0118, 0.0140, 0.0098, 0.0105, 0.0230], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   4 | time: 17.90s | valid loss 0.01384215708822012 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   5 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.19 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.47 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.67 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.14 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.37 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   5 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.86 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+tensor([0.0078, 0.0086, 0.0101, 0.0142, 0.0209], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   5 | time: 17.86s | valid loss 0.012318174354732037 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   6 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.64 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.12 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.94 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   198/  226 batches | lr 1.000000e-03 | ms/batch 81.54 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   6 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.08 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+tensor([0.0121, 0.0149, 0.0168, 0.0195, 0.0248], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   6 | time: 17.91s | valid loss 0.017622822895646095 | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   7 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.61 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.84 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   7 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   7 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0101, 0.0133, 0.0134, 0.0145, 0.0187], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   7 | time: 17.77s | valid loss 0.013991382904350758 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch   8 |    22/  226 batches | lr 1.000000e-03 | ms/batch 82.11 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   8 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   110/  226 batches | lr 1.000000e-03 | ms/batch 80.55 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   132/  226 batches | lr 1.000000e-03 | ms/batch 78.03 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.77 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   198/  226 batches | lr 1.000000e-03 | ms/batch 78.08 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   8 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.77 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0103, 0.0177, 0.0145, 0.0103, 0.0120], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   8 | time: 17.89s | valid loss 0.012944902293384075 | Loss pred len  0:  0.01 1:  0.02 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch   9 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.32 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.03
+| epoch   9 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |    88/  226 batches | lr 1.000000e-03 | ms/batch 81.42 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.91 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch   9 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0086, 0.0117, 0.0122, 0.0112, 0.0128], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch   9 | time: 17.88s | valid loss 0.01129666157066822 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  10 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.52 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.75 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.61 | loss  0.02  | Loss pred len  0:  0.02 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.69 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   132/  226 batches | lr 1.000000e-03 | ms/batch 76.46 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.65 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.46 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.52 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  10 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0096, 0.0143, 0.0137, 0.0126, 0.0111], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  10 | time: 17.58s | valid loss 0.012273432686924934 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  11 |    22/  226 batches | lr 1.000000e-03 | ms/batch 83.71 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.13 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.32 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.94 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.14 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.14 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.24 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.99 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  11 |   220/  226 batches | lr 1.000000e-03 | ms/batch 81.24 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0075, 0.0109, 0.0118, 0.0145, 0.0152], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  11 | time: 17.94s | valid loss 0.011986374855041504 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch  12 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.47 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.80 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  12 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.01 3:  0.02 4:  0.02
+| epoch  12 |   132/  226 batches | lr 1.000000e-03 | ms/batch 78.01 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.13 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  12 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.84 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  12 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  12 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0162, 0.0183, 0.0106, 0.0077, 0.0103], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  12 | time: 17.82s | valid loss 0.012625381350517273 | Loss pred len  0:  0.02 1:  0.02 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  13 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.67 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.95 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |   154/  226 batches | lr 1.000000e-03 | ms/batch 80.96 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.91 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  13 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  13 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+tensor([0.0071, 0.0085, 0.0067, 0.0072, 0.0098], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  13 | time: 17.87s | valid loss 0.0078542185947299 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  14 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.78 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.57 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  14 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.31 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   154/  226 batches | lr 1.000000e-03 | ms/batch 80.68 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  14 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  14 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0095, 0.0127, 0.0096, 0.0070, 0.0102], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  14 | time: 17.85s | valid loss 0.009794945828616619 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  15 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.74 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  15 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  15 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.09 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  15 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.91 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0075, 0.0100, 0.0091, 0.0064, 0.0090], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  15 | time: 17.79s | valid loss 0.008386130444705486 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  16 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.52 | loss  0.02  | Loss pred len  0:  0.01 1:  0.02 2:  0.02 3:  0.02 4:  0.02
+| epoch  16 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.01 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  16 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  16 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  16 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.94 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.01 4:  0.02
+tensor([0.0091, 0.0116, 0.0093, 0.0066, 0.0093], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  16 | time: 17.90s | valid loss 0.0091746486723423 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  17 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.72 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.02 4:  0.02
+| epoch  17 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |    66/  226 batches | lr 1.000000e-03 | ms/batch 80.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  17 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0091, 0.0137, 0.0162, 0.0131, 0.0155], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  17 | time: 17.88s | valid loss 0.01353043969720602 | Loss pred len  0:  0.01 1:  0.01 2:  0.02 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch  18 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.36 | loss  0.02  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.02 4:  0.02
+| epoch  18 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   132/  226 batches | lr 1.000000e-03 | ms/batch 78.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  18 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0085, 0.0108, 0.0081, 0.0063, 0.0094], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  18 | time: 17.86s | valid loss 0.008622297085821629 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  19 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.94 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  19 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0073, 0.0085, 0.0089, 0.0092, 0.0110], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  19 | time: 17.86s | valid loss 0.00899504404515028 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  20 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  20 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0057, 0.0086, 0.0090, 0.0068, 0.0082], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  20 | time: 17.75s | valid loss 0.007635142188519239 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  21 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   154/  226 batches | lr 1.000000e-03 | ms/batch 81.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  21 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0060, 0.0077, 0.0064, 0.0061, 0.0067], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  21 | time: 17.87s | valid loss 0.006560186389833689 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  22 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   110/  226 batches | lr 1.000000e-03 | ms/batch 80.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.55 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  22 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0063, 0.0077, 0.0095, 0.0108, 0.0102], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  22 | time: 17.87s | valid loss 0.008901998400688171 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  23 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.45 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.89 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  23 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0072, 0.0092, 0.0068, 0.0059, 0.0101], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  23 | time: 17.81s | valid loss 0.007838842459022999 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  24 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    66/  226 batches | lr 1.000000e-03 | ms/batch 80.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  24 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0064, 0.0102, 0.0097, 0.0080, 0.0112], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  24 | time: 17.89s | valid loss 0.009119994938373566 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  25 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   198/  226 batches | lr 1.000000e-03 | ms/batch 78.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  25 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0058, 0.0066, 0.0056, 0.0054, 0.0087], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  25 | time: 17.88s | valid loss 0.006432278547435999 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  26 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.06 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  26 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  26 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.48 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  26 |   220/  226 batches | lr 1.000000e-03 | ms/batch 80.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0057, 0.0063, 0.0045, 0.0051, 0.0102], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  26 | time: 17.87s | valid loss 0.0063346936367452145 | Loss pred len  0:  0.01 1:  0.01 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  27 |    22/  226 batches | lr 1.000000e-03 | ms/batch 82.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.03 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.02 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   198/  226 batches | lr 1.000000e-03 | ms/batch 81.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  27 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.99 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0073, 0.0089, 0.0060, 0.0053, 0.0081], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  27 | time: 17.89s | valid loss 0.0071317702531814575 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  28 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |    66/  226 batches | lr 1.000000e-03 | ms/batch 78.33 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  28 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  28 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0046, 0.0060, 0.0064, 0.0074, 0.0103], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  28 | time: 17.82s | valid loss 0.006950198207050562 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  29 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.03 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   132/  226 batches | lr 1.000000e-03 | ms/batch 79.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  29 |   154/  226 batches | lr 1.000000e-03 | ms/batch 76.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   176/  226 batches | lr 1.000000e-03 | ms/batch 76.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   198/  226 batches | lr 1.000000e-03 | ms/batch 76.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  29 |   220/  226 batches | lr 1.000000e-03 | ms/batch 76.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0038, 0.0053, 0.0048, 0.0045, 0.0088], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  29 | time: 17.66s | valid loss 0.005437405314296484 | Loss pred len  0:  0.00 1:  0.01 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  30 |    22/  226 batches | lr 1.000000e-03 | ms/batch 80.57 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |    44/  226 batches | lr 1.000000e-03 | ms/batch 76.19 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |    66/  226 batches | lr 1.000000e-03 | ms/batch 76.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |    88/  226 batches | lr 1.000000e-03 | ms/batch 76.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   110/  226 batches | lr 1.000000e-03 | ms/batch 76.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  30 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.64 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  30 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.11 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0046, 0.0065, 0.0066, 0.0084, 0.0131], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  30 | time: 17.70s | valid loss 0.007832705043256283 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  31 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+| epoch  31 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.17 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.38 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  31 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.22 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+tensor([0.0047, 0.0064, 0.0063, 0.0057, 0.0121], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  31 | time: 17.78s | valid loss 0.007040097843855619 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  32 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.77 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.27 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  32 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.05 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0040, 0.0060, 0.0065, 0.0079, 0.0151], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  32 | time: 17.89s | valid loss 0.007879671640694141 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.02
+-----------------------------------------------------------------------------------------
+| epoch  33 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |    44/  226 batches | lr 1.000000e-03 | ms/batch 81.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.64 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  33 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0035, 0.0044, 0.0041, 0.0045, 0.0080], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  33 | time: 17.90s | valid loss 0.004909498617053032 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  34 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.33 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.42 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.77 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   198/  226 batches | lr 1.000000e-03 | ms/batch 80.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  34 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0036, 0.0052, 0.0061, 0.0080, 0.0100], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  34 | time: 17.87s | valid loss 0.006563705392181873 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  35 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   132/  226 batches | lr 1.000000e-03 | ms/batch 78.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   176/  226 batches | lr 1.000000e-03 | ms/batch 80.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.84 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  35 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0029, 0.0039, 0.0050, 0.0069, 0.0088], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  35 | time: 17.89s | valid loss 0.005489300470799208 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  36 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.64 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.57 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  36 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0022, 0.0039, 0.0051, 0.0053, 0.0073], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  36 | time: 17.80s | valid loss 0.004753665532916784 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  37 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   132/  226 batches | lr 1.000000e-03 | ms/batch 80.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  37 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0022, 0.0030, 0.0032, 0.0039, 0.0084], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  37 | time: 17.85s | valid loss 0.004163685254752636 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  38 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.50 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.69 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.23 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.70 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.36 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  38 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0028, 0.0038, 0.0054, 0.0075, 0.0088], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  38 | time: 17.87s | valid loss 0.005650377366691828 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  39 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.30 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.95 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.55 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.33 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.26 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.37 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.20 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  39 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0053, 0.0064, 0.0072, 0.0078, 0.0064], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  39 | time: 17.73s | valid loss 0.0066157178953289986 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  40 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.32 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    44/  226 batches | lr 1.000000e-03 | ms/batch 80.99 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.55 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  40 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.65 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0067, 0.0060, 0.0072, 0.0068, 0.0079], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  40 | time: 17.89s | valid loss 0.006915421225130558 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  41 |    22/  226 batches | lr 1.000000e-03 | ms/batch 84.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    44/  226 batches | lr 1.000000e-03 | ms/batch 78.16 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    66/  226 batches | lr 1.000000e-03 | ms/batch 78.03 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.97 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   154/  226 batches | lr 1.000000e-03 | ms/batch 78.29 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  41 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0044, 0.0067, 0.0071, 0.0071, 0.0067], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  41 | time: 17.91s | valid loss 0.006401538848876953 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  42 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.72 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.44 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.21 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   198/  226 batches | lr 1.000000e-03 | ms/batch 81.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  42 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0037, 0.0059, 0.0055, 0.0053, 0.0083], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  42 | time: 17.85s | valid loss 0.00571993226185441 | Loss pred len  0:  0.00 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  43 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.15 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.35 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.76 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   176/  226 batches | lr 1.000000e-03 | ms/batch 80.68 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.40 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  43 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.28 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0035, 0.0047, 0.0064, 0.0077, 0.0104], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  43 | time: 17.83s | valid loss 0.006569994147866964 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  44 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.52 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.88 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.82 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  44 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.86 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0027, 0.0044, 0.0040, 0.0036, 0.0044], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  44 | time: 17.79s | valid loss 0.0038091414608061314 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.00
+-----------------------------------------------------------------------------------------
+| epoch  45 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    66/  226 batches | lr 1.000000e-03 | ms/batch 78.24 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.15 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   110/  226 batches | lr 1.000000e-03 | ms/batch 80.61 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.46 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.43 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.60 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   198/  226 batches | lr 1.000000e-03 | ms/batch 78.13 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  45 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.54 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0031, 0.0047, 0.0072, 0.0073, 0.0080], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  45 | time: 17.87s | valid loss 0.006047610193490982 | Loss pred len  0:  0.00 1:  0.00 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  46 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.56 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.69 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.67 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |    88/  226 batches | lr 1.000000e-03 | ms/batch 80.47 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   110/  226 batches | lr 1.000000e-03 | ms/batch 78.01 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.57 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.66 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  46 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.58 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0028, 0.0035, 0.0037, 0.0048, 0.0082], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  46 | time: 17.86s | valid loss 0.004615357611328363 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  47 |    22/  226 batches | lr 1.000000e-03 | ms/batch 81.39 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.69 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.74 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.78 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.53 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.08 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.85 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  47 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.75 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0065, 0.0070, 0.0065, 0.0061, 0.0080], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  47 | time: 17.80s | valid loss 0.006808991078287363 | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  48 |    22/  226 batches | lr 1.000000e-03 | ms/batch 84.51 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.59 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |    88/  226 batches | lr 1.000000e-03 | ms/batch 78.14 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.93 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.92 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.87 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   176/  226 batches | lr 1.000000e-03 | ms/batch 78.00 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  48 |   220/  226 batches | lr 1.000000e-03 | ms/batch 78.19 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0025, 0.0039, 0.0035, 0.0045, 0.0072], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  48 | time: 17.90s | valid loss 0.00431931484490633 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.00 4:  0.01
+-----------------------------------------------------------------------------------------
+| epoch  49 |    22/  226 batches | lr 1.000000e-03 | ms/batch 84.80 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    44/  226 batches | lr 1.000000e-03 | ms/batch 77.63 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    66/  226 batches | lr 1.000000e-03 | ms/batch 77.73 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |    88/  226 batches | lr 1.000000e-03 | ms/batch 77.49 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   110/  226 batches | lr 1.000000e-03 | ms/batch 77.79 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   132/  226 batches | lr 1.000000e-03 | ms/batch 77.90 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   154/  226 batches | lr 1.000000e-03 | ms/batch 77.81 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   176/  226 batches | lr 1.000000e-03 | ms/batch 77.71 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   198/  226 batches | lr 1.000000e-03 | ms/batch 77.62 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+| epoch  49 |   220/  226 batches | lr 1.000000e-03 | ms/batch 77.83 | loss  0.01  | Loss pred len  0:  0.01 1:  0.01 2:  0.01 3:  0.01 4:  0.01
+tensor([0.0039, 0.0047, 0.0046, 0.0050, 0.0066], device='cuda:0')
+-----------------------------------------------------------------------------------------
+| end of epoch  49 | time: 17.87s | valid loss 0.0049470518715679646 | Loss pred len  0:  0.00 1:  0.00 2:  0.00 3:  0.01 4:  0.01
+-----------------------------------------------------------------------------------------
